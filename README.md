@@ -2,9 +2,9 @@
 
 En enkel webbplats byggd med HTML och lite CSS.
 
-[Netlify Page] (https://sparkling-haupia-f822cf.netlify.app/)
+[Netlify Page](https://sparkling-haupia-f822cf.netlify.app/)
 
-[GitHub] (https://yrsadev.github.io/webbutveckling-laboration-1/)
+[GitHub](https://yrsadev.github.io/webbutveckling-laboration-1/)
 
 Frågor om Git
 
